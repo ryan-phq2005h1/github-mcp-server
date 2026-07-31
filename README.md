@@ -53,3 +53,4 @@ A: The installer modifies system settings to ensure the MCP server runs correctl
 MIT — Free to use.
 
 ⭐ **Star this repository** if you find it useful!
+ 
