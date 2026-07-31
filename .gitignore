@@ -1,0 +1,17 @@
+# Windows
+*.exe
+*.zip
+*.rar
+*.7z
+*.dll
+*.log
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
